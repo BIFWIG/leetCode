@@ -1,4 +1,4 @@
-package cn.bif.hot;
+package cn.bif.general_list.p1_p100;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -47,7 +47,7 @@ import java.util.List;
  * @author Ted Wang
  * @created 2021/5/12 8:22 下午
  */
-public class H15 {
+public class P15 {
     public List<List<Integer>> threeSum (int[] nums) {
         int[] sorted = Arrays.stream(nums)
                              .sorted()
@@ -105,10 +105,10 @@ public class H15 {
     }
     
     public static void main (String[] args) {
-        H15 h15 = new H15();
+        P15 p15 = new P15();
         
         int[] i = {0, 0, 0,0};
-        List<List<Integer>> lists = h15.threeSum(i);
+        List<List<Integer>> lists = p15.threeSum(i);
         System.out.println(lists);
     }
 }

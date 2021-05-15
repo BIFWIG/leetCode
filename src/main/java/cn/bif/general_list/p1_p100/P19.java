@@ -1,8 +1,7 @@
-package cn.bif.hot;
+package cn.bif.general_list.p1_p100;
 
 import cn.bif.common.ListNode;
 
-import java.util.List;
 import java.util.Queue;
 import java.util.concurrent.LinkedBlockingQueue;
 
@@ -50,7 +49,7 @@ import java.util.concurrent.LinkedBlockingQueue;
  * @author Ted Wang
  * @created 2021/5/13 10:59 上午
  */
-public class H19 {
+public class P19 {
     
     public ListNode removeNthFromEnd2 (ListNode head, int n) {
         ListNode l = new ListNode();
@@ -104,8 +103,8 @@ public class H19 {
         
         ListNode init = ListNode.init(numbers);
         System.out.println(init);
-        ListNode listNode = new H19().removeNthFromEnd(init, 1);
-        ListNode listNode2 = new H19().removeNthFromEnd2(init, 1);
+        ListNode listNode = new P19().removeNthFromEnd(init, 1);
+        ListNode listNode2 = new P19().removeNthFromEnd2(init, 1);
         System.out.println(listNode);
         System.out.println(listNode2);
         

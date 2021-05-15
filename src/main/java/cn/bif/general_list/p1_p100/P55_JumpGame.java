@@ -1,5 +1,5 @@
 
-package cn.bif.hot;
+package cn.bif.general_list.p1_p100;
 
 /**
  * <br/>[55]跳跃游戏
@@ -38,9 +38,9 @@ package cn.bif.hot;
  * <br/> Related Topics 贪心算法 数组
  * <br/> 👍 1186 👎 0
  **/
-public class H55_JumpGame {
+public class P55_JumpGame {
     public static void main (String[] args) {
-        Solution solution = new H55_JumpGame().new Solution();
+        Solution solution = new P55_JumpGame().new Solution();
         int[] a = {0, 2, 3};
         System.out.println(solution.canJump(a));
     }

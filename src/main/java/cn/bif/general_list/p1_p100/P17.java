@@ -1,4 +1,4 @@
-package cn.bif.hot;
+package cn.bif.general_list.p1_p100;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -48,7 +48,7 @@ import java.util.List;
  * @author Ted Wang
  * @created 2021/5/12 9:07 下午
  */
-public class H17 {
+public class P17 {
     
     
     public List<String> list = new ArrayList<>();
@@ -95,9 +95,9 @@ public class H17 {
     
     public static void main (String[] args) {
     
-        H17 h17 = new H17();
+        P17 p17 = new P17();
     
-        List<String> list = h17.letterCombinations("");
+        List<String> list = p17.letterCombinations("");
     
     
         System.out.println(list);

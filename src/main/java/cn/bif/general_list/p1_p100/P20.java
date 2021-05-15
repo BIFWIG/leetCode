@@ -1,4 +1,4 @@
-package cn.bif.hot;
+package cn.bif.general_list.p1_p100;
 
 import java.util.Stack;
 
@@ -63,7 +63,7 @@ import java.util.Stack;
  * @author Ted Wang
  * @created 2021/5/13 5:14 下午
  */
-public class H20 {
+public class P20 {
     public boolean isValid (String s) {
       
         Stack<Character> stack = new Stack<>();
@@ -86,7 +86,7 @@ public class H20 {
     }
     
     public static void main (String[] args) {
-        H20 h20 = new H20();
+        P20 h20 = new P20();
         System.out.println(h20.isValid("]"));
     }
 }
