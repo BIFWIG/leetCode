@@ -1,5 +1,5 @@
 
-package leetcode.editor.cn;
+package cn.bif.general_list.p201_p300;
 
 import cn.bif.common.ListNode;
 
