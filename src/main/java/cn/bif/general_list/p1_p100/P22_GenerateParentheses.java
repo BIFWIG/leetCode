@@ -1,5 +1,5 @@
 
-package leetcode.editor.cn;
+package cn.bif.general_list.p1_p100;
 
 import java.util.ArrayList;
 import java.util.List;
