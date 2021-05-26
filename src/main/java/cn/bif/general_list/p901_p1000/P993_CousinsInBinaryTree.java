@@ -1,5 +1,5 @@
 
-package cn.bif.general_list.p901_1000;
+package cn.bif.general_list.p901_p1000;
 
 import cn.bif.common.TreeNode;
 

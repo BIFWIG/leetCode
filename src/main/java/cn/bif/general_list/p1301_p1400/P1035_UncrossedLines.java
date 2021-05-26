@@ -1,5 +1,5 @@
 
-package cn.bif.general_list.p1301_1400;
+package cn.bif.general_list.p1301_p1400;
 
 /**
  * <br/>[1035]不相交的线

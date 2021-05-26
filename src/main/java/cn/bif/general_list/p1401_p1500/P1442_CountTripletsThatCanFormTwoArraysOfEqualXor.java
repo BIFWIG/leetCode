@@ -1,4 +1,4 @@
-package cn.bif.general_list.p1401_1500;
+package cn.bif.general_list.p1401_p1500;
 
 /**
  * <br/>[1442]形成两个异或相等数组的三元组数目

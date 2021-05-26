@@ -1,4 +1,4 @@
-package cn.bif.general_list.p1301_1400;
+package cn.bif.general_list.p1301_p1400;
 
 import java.util.ArrayList;
 import java.util.Arrays;

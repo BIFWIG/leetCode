@@ -3,7 +3,7 @@
  * EVECOM PROPRIETARY/CONFIDENTIAL. Use is subject to license terms.
  */
 
-package cn.bif.general_list.p1001_1100;
+package cn.bif.general_list.p1001_p1100;
 
 import java.util.Arrays;
 
