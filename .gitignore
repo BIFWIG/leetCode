@@ -26,3 +26,4 @@
 hs_err_pid*
 /src/main/java/cn/bif/temp/
 /src/main/java/leetcode/*.json
+/src/main/java/leetcode/editor/cn/doc/
