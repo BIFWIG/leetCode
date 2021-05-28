@@ -46,6 +46,18 @@ public class P461_HammingDistance {
             }
             return c;
         }
+        
+        public int hammingDistance2(int x,int y){
+            int count =0;
+            int s =x^y;
+            while (s!=0){
+                s &= s-1;
+                count++;
+                
+            }
+            
+            return count;
+        }
     }
 //leetcode submit region end(Prohibit modification and deletion)
 
