@@ -1,5 +1,5 @@
 
-package leetcode.editor.cn;
+package cn.bif.general_list.p401_p500;
 
 /**
  * <br/>[477]汉明距离总和
