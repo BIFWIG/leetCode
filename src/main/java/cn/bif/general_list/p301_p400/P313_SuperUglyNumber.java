@@ -1,5 +1,5 @@
 
-package leetcode.editor.cn;
+package cn.bif.general_list.p301_p400;
 
 import java.util.HashSet;
 import java.util.PriorityQueue;
